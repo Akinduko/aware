@@ -1,0 +1,75 @@
+('HEADERS: ', <mimetools.Message instance at 0x19b1170>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b1368>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.212:12302/push?service=simpleGeneral&subscriber=2348032823104&message=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b1368>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b18c0>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b1d88>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b1d88>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana., the current state is alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.,%20the%20current%20state%20is%20alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b1170>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x19b1170>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/fbn/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x1b92cb0>)
+{'{"evalMatches":[],"message":"Hello Team,\\n\\nResponse times are above 10 seconds threshold as seen in screenshot. This could be an indication of poor performance or service degradation.","ruleId":1,"ruleName":"ussd incoming transport delay alert","ruleUrl":"http://localhost:3000/ondemand/dashboard/db/302-and-904-mtn-topup?fullscreen\\u0026edit\\u0026tab': ['alert\\u0026panelId=2\\u0026orgId=1","state":"alerting","title":"[Alerting] ussd incoming transport delay alert"}']}
+success
+----------------------------------------
+Exception happened during processing of request from ('192.168.2.224', 39934)
+----------------------------------------
+('HEADERS: ', <mimetools.Message instance at 0x1b8eea8>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/ondemand/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+Someone is testing the alert notification within grafana. Current state is:alerting
+200
+http://192.168.2.204:12003/mtn/sms?from_addr=*904&to_addr=%2B2348032823104&content=Someone%20is%20testing%20the%20alert%20notification%20within%20grafana.%20Current%20state%20is:alerting
+Message Sent
+('HEADERS: ', <mimetools.Message instance at 0x1b92cb0>)
+{'{"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/ondemand/","state":"alerting","title":"[Alerting] Test notification"}': ['']}
+success
+('HEADERS: ', <mimetools.Message instance at 0x1b8eea8>)
+{'{"evalMatches":[],"message":"Hello Team,\\n\\nResponse times are above 10 seconds threshold as seen in screenshot. This could be an indication of poor performance or service degradation.","ruleId":1,"ruleName":"ussd incoming transport delay alert","ruleUrl":"http://localhost:3000/ondemand/dashboard/db/302-and-904-mtn-topup?fullscreen\\u0026edit\\u0026tab': ['alert\\u0026panelId=2\\u0026orgId=1","state":"alerting","title":"[Alerting] ussd incoming transport delay alert"}']}
+success

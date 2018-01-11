@@ -1,0 +1,36 @@
+192.168.2.224 - - [18/Oct/2017 15:52:06] "POST /fbn_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:53:27] "POST /fbn_push_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:54:17] "POST /uba_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:54:33] "POST /diamond_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:54:44] "POST /fidelity_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:55:03] "POST /mtn_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:55:15] "POST /access_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 15:59:07] "POST /fbn_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 16:07:43] "POST /fbn_sms_json HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib64/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib64/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib64/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib64/python2.7/BaseHTTPServer.py", line 340, in handle
+    self.handle_one_request()
+  File "/usr/lib64/python2.7/BaseHTTPServer.py", line 328, in handle_one_request
+    method()
+  File "/home/sms/modules/request_handler.py", line 203, in do_POST
+    fbn_sms_json(self)
+  File "/home/sms/modules/grafana_sms_json.py", line 192, in fbn_sms_json
+    result = json.loads(output[0])
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 1 column 257 (char 256)
+192.168.2.224 - - [18/Oct/2017 16:11:09] "POST /fbn_sms_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 16:15:20] "POST /receive_json HTTP/1.1" 200 -
+192.168.2.224 - - [18/Oct/2017 16:18:30] "POST /receive_json HTTP/1.1" 200 -
